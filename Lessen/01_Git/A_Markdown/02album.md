@@ -20,7 +20,9 @@ images:
 
 # Album Images
 
-![foto insta]({{site.baseurl }}/cancelledinsta.jpg)
+voorbeeld van een foto in my repository
+
+![foto insta]({{site.baseurl }}assets/cancelledinsta.jpg)
 
 
 {% include album.liquid data=page.images %}

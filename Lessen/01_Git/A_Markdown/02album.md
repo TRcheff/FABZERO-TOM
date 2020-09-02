@@ -20,4 +20,7 @@ images:
 
 # Album Images
 
+[foto insta](((site.baseurl ))/cancelledinsta.jpg)
+
+
 {% include album.liquid data=page.images %}

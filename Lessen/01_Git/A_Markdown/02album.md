@@ -22,7 +22,7 @@ images:
 
 voorbeeld van een foto in my repository
 
-![foto insta]({{site.baseurl }}assets/cancelledinsta.jpg)
+![foto insta]({{site.baseurl }}/assets/cancelledinsta.jpg)
 
 
 {% include album.liquid data=page.images %}

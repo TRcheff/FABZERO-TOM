@@ -8,3 +8,5 @@ We leerden over het productie proces van een idee of concept tot prototyping tot
 ontwikkeling van het product. 
 
 Ik zet ook iets in het **vet** 
+
+source: `{{ page.path }}`
